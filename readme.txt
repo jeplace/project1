@@ -1,1 +1,2 @@
 Hello! This website was designed to showcase my favorite video game series, Fallout. It is stylized to follow the classic Vault-Tec color scheme from the games and utilize font choices to give off that retro vibe.
+Note: The Vault Boy icon in the top left links directly to the Bethesda Fallout webpage!
